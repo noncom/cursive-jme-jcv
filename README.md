@@ -1,14 +1,26 @@
 # cursive-jcv
 
-A Clojure library designed to ... well, that part is up to you.
+A demo Cursive project with example usage of JMonkeyEngine3 and JavaCV. All used copyrighted materials belong to their respective owners.
+
+This demo initially demonstrates the problem of loading native libs for JavaCV FFmpegFrameGrabber. Launching from cursive yields an error. Launching with "lein repl" works as expected.
 
 ## Usage
 
-FIXME
+load with
+
+    lein repl
+
+execute
+
+    (-main)
+
+control:
+
+    W, A, S, D, mouselook
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 noncom.
 
 Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+your option) any later version. I am not a lawyer, but I love everybody.
