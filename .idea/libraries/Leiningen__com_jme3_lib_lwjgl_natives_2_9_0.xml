@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.jme3-lib/lwjgl-natives:2.9.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jme3-lib/lwjgl-natives/2.9.0/lwjgl-natives-2.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
