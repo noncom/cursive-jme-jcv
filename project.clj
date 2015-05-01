@@ -4,6 +4,7 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
+            ; Strange formatting here. The tab is not correct.
             :repositories [["jme3" "http://updates.jmonkeyengine.org/maven/"]]
 
             :main cursive-jcv.core
