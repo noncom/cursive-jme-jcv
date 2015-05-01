@@ -4,6 +4,8 @@ A demo Cursive project with example usage of JMonkeyEngine3 and JavaCV. All used
 
 This demo initially demonstrates the problem of loading native libs for JavaCV FFmpegFrameGrabber. Launching from cursive yields an error. Launching with "lein repl" works as expected.
 
+Original video: https://vimeo.com/76771149
+
 ## Usage
 
 load with
@@ -16,7 +18,7 @@ execute
 
 control:
 
-    W, A, S, D, mouselook
+    W, A, S, D, Q, Z, mouselook
 
 ## License
 
